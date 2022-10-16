@@ -21,8 +21,3 @@ if __name__ == "__main__":
     api = api()
     tweet(api, 'This tweeet was tweeted from Python')
 
-<<<<<<< HEAD:Twitter_Bot/my_twitter_bot.py
-=======
-
-
->>>>>>> 20f5c669c5fd2451ec2353736489362600c5f227:my_twitter_bot.py
