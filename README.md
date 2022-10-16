@@ -6,12 +6,15 @@ See the [open issues](https://github.com/whythoSanskar/TwitterBot/issues) for a 
 * Python
 
 ## Running the bot
-- Go to the termianl or cmd
+- Go to the terminal or cmd
 ```bash 
 pip install -r "requirements.txt"
 ```
-- Type the above command 
-- Make sure you have give proper path 
+- If it says requirements.txt not found that make sure you have cloned this repo on your machine and you are in the TwitterBot\Twitter_Bot\Environment directory.
+
+## Documentation
+* Refer to [tweepy documentation](https://docs.tweepy.org/en/stable/) to get more clarity.
+
 
 ## Contribution
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
