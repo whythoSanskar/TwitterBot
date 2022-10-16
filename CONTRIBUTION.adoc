@@ -21,21 +21,12 @@ comments to the existing issue instead of creating a new one.
 
 === Reporting bugs
 
-
 Explain the bug you have encountered so that others can understand it
 and preferably also reproduce it. Key things to have in good bug report:
 
 . Version information
 * Python interpreter version
 * Operating system and its version
-
-=== Enhancement requests
-
-Describe the new feature and use cases for it in as much detail as
-possible. Especially with larger enhancements, be prepared to contribute
-the code in the form of a pull request as explained below or to pay
-someone for the work. Consider also would it be better to implement this
-functionality as a separate tool outside the core framework.
 
 == Code contributions
 
@@ -54,8 +45,8 @@ look for when looking for something to contribute:
 https://github.com/whythoSanskar/TwitterBot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 `good first issue`::
-  These issues typically do not require any knowledge of Robot Framework
-  internals and are generally easy to implement or fix. Thus these
+ 
+  These are generally easy to implement or fix. Thus these
   issues are especially good for new contributors.
 
 === Pull requests
@@ -92,7 +83,6 @@ With new features adequate documentation is as important as the actual
 functionality. Different documentation is needed depending on the issue.
 
 === Resolving conflicts
-
 
 Conflicts can occur if there are new changes to the master that touch
 the same code as your changes. In that case you should
