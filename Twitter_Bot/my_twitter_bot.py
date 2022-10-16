@@ -21,5 +21,3 @@ if __name__ == "__main__":
     api = api()
     tweet(api, 'This tweeet was tweeted from Python')
 
-
-
