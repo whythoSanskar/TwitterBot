@@ -2,6 +2,10 @@
 
 TwitterBot welcomes contributions from the community.
 
+## Code of Conduct
+
+Please go through [CodeofConduct.md](https://github.com/whythoSanskar/TwitterBot/blob/main/CodeofConduct.md) and make sure your interaction with the project complies with our code of conduct.
+
 ## Setting up your own fork of this repo.
 
 - On github interface click on `Fork` button.
@@ -42,6 +46,7 @@ On github interface, click on `Pull Request` button.
 Wait CI to run and one of the developers will review your PR.
 
 ## Hacktoberfest Contribution Guidelines:
+
 1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the Hacktoberfest Quality Standards.
 2. Verify that you have read the home page, and Readme.md on GitHub. You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.
 3. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
