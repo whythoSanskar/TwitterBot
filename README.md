@@ -8,9 +8,17 @@ See the [open issues](https://github.com/whythoSanskar/TwitterBot/issues) for a 
 ## Running the bot
 - Go to the terminal or cmd
 ```bash 
-pip install -r "requirements.txt"
+pipenv install
 ```
-- If it says requirements.txt not found that make sure you have cloned this repo on your machine and you are in the TwitterBot\Twitter_Bot\Environment directory.
+- This will download the required file from the piplock file and a pipfile will get created on the local system.
+- After that to create virtual environment 
+```bash
+pipenv shell
+```
+- And to exit the virtual environment use
+```bash 
+exit
+```
 
 ## Documentation
 * Refer to [tweepy documentation](https://docs.tweepy.org/en/stable/) to get more clarity.
