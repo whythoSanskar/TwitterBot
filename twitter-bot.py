@@ -28,7 +28,7 @@ def twitter_bot():
         tweet = tweet.strip()
         print(tweet)
         api.update_status(tweet)
-        time.sleep(15*60)  # update status every 15 minutes
+        time.sleep(2*60)  # update status every 2 minutes
 
 
 if __name__ == "__main__":
